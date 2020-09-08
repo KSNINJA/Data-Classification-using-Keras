@@ -1,2 +1,2 @@
-# Data Classification
-# MNIST Handwritten digits Recognition
+## Data Classification
+## MNIST Handwritten digits Recognition
